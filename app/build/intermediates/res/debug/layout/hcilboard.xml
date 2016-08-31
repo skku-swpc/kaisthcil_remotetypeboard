@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.hcilboard.hcilboardview xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000" >
+
+   
+
+    <com.example.hcilboard.keyboardview
+        android:id="@+id/keyboard_view"
+        android:layout_width="wrap_content"
+        android:layout_height="350dp"
+        android:layout_centerInParent="true"
+        >
+    </com.example.hcilboard.keyboardview>
+
+    
+</com.example.hcilboard.hcilboardview><!-- From: file:/C:/Users/Jiseong/Dropbox/Workspace/AndroidStudioProjects/hcilboard/app/src/main/res/layout/hcilboard.xml -->
